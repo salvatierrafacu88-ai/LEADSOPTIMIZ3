@@ -1,2 +1,4 @@
-[phases.setup]
-nixPkgs = ["...", "google-chrome", "chromedriver"]
+streamlit
+pandas
+selenium
+webdriver-manager
